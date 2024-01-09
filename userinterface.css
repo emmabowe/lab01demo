@@ -3,3 +3,7 @@ div{
     border: thin solid red;
 }
 
+.myheader{
+    background-color: black;
+    color: white;
+}
